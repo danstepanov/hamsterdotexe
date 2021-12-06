@@ -9,10 +9,10 @@ export default function Home() {
       </Head>
 
       <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
-        <h1 className="text-6xl text-white font-bold">
-          Gucci X Kanye
-        </h1>
-
+        <div className="p-5 border-4 border-double w-64 text-center sm:w-auto">
+          <h1 className="text-6xl text-white font-bold">
+            Gucci X Kanye</h1>
+        </div>
         <p className="mt-3 text-white text-2xl">
           you're early...
         </p>
