@@ -13,9 +13,7 @@ export default function Home() {
           <h1 className="text-6xl text-white font-bold">
             Gucci X Kanye</h1>
         </div>
-        <p className="mt-3 text-white text-2xl">
-          you're early...
-        </p>
+        <img src="frame1.png" className="w-64 pt-10" />
       </main>
     </div>
   )
